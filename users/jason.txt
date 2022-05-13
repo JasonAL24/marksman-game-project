@@ -1,0 +1,8 @@
+jason#40#300#70#12096
+weapon#Five Seven_true_10_4
+weapon#S12_true_14_16
+weapon#HAMR_true_28_10
+weapon#RPG_true_2_61
+potion#Small Potion_5
+potion#Medium Potion_5
+potion#Large Potion_5
