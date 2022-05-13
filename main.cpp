@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <conio.h>
 #include <time.h>
-// T002 - Jason Aldeo Leonard
+
 struct players{
   char user[25];
   char pass[25];
