@@ -1,4 +1,7 @@
 # Marksman Game Project
+## A Basic C Language Game
+
+https://imgur.com/a/kzL5HZI
 
 How to play:
 - Press "W, A, S, and D" to move the character ('@')
