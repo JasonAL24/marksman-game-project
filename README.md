@@ -1,21 +1,22 @@
 # Marksman Game Project
-## A Basic C Language Game
+A Basic C Language Game
 
 ![alt text](https://github.com/JasonAL24/marksman-game-project/blob/main/Screenshot_Main_Menu.png?raw=true)
 
-How to play:
+## How to play
 - Press "W, A, S, and D" to move the character ('@')
 - Press "B" to show backpack/inventory
 - Press "Q" to quit the game.
 - Weapon shop is at "W", and Potion shop is at "P".
 
+## Objective
 The objective is to defeat the final boss. To open the boss stage, you need 5 keys ('K').
 To defeat it, it is recommended to get more exp and money by defeating enemies ('E') on the maze.
 
 When the user approaches enemy or the boss, the game will be on weapon mode.
 In the weapon mode, the enemy will be shown as number, that number is representing their hp, defeat it by shooting it.
 
-Weapon mode controls:
+## Weapon mode controls
 - Press "Space" to shoot the weapon.
 - Press "W, A, S, and D" to move the Weapon
 - Press "P" to show potions, and user can choose to use it.
