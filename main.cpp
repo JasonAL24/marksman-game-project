@@ -76,7 +76,7 @@ int main(){
         system("cls || clear");
         char newUsername[25];
         char newPassword[25];
-        printf("Welcome...\n");
+        printf("Welcome....\n");
         do{
           printf("username : ");
           scanf("%[^\n]", newUsername);
